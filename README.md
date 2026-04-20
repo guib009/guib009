@@ -17,10 +17,9 @@
 
 ## 🌊 Sobre mim
 
-* 📚 Estudando HTML, CSS, JavaScript e TypeScript
 * 🚀 Em busca da primeira oportunidade na área
 * 🧠 Perfil curioso e focado em aprendizado constante
-
+* 🐱‍👤 Meu Nome é Guilherme, sou apaixonado por tecnologia e automação
 ---
 
 ## 🎓 Formação
@@ -42,8 +41,13 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+</p>
+
+## Ferramentas
+<P aling = "Center">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> 
+
 </p>
 
 
@@ -65,9 +69,9 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF">
   </a>
 
-  <a href="mailto:guilhermeas925@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF">
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&to=guilhermeas925@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=58A6FF">
+</a>
 </p>
 
 ---
