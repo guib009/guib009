@@ -26,9 +26,8 @@
 ## 🎓 Formação
 
 <p align="center">
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/SENAI_logo_2024.png"><br>
-  <b>SENAI</b> <br>
-  Análise e Desenvolvimento de Sistemas
+  
+  Análise e Desenvolvimento de Sistemas no Senai
 </p>
 
 ---
@@ -41,7 +40,12 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </p>
+
 
 ---
 
